@@ -1,0 +1,8 @@
+.replies {
+    padding: 0.5rem 0.5rem;
+}
+
+.reply-div {
+    overflow-y: scroll;
+    max-height: 300px;
+}
