@@ -1,0 +1,10 @@
+api_key='8c4DzteoRnp8VjtAeFEcG95ri'
+api_key_secret='PmGibWWRgu57NAE2qQqMZ0SPfIT1LmbuJgLIp72a8LVZ6c5uK4'
+
+access_token='1010014270845698050-CpVERZNwEUWrmP5khlOf5FyGl5LQgd'
+access_token_secret='8qX3s0iJ6onGKkAq4qEND7iOWyaQJfSJwoDXykZxdmTfk'
+
+consumer_key='j5z6oTkkODllydAv4TJa8FxJS'
+consumer_secret='rSig6RvaLe2v8GzrsNsFpirLF2OKVxKune1NqXMuY8JV42RmKv'
+
+bearer_token='AAAAAAAAAAAAAAAAAAAAAMB8MgEAAAAATTDEm0GWidakPNxPXXIvT%2Bddx0U%3DCs9bSlFgrSz02jj7T8ezW3iBEeBdytXPbCc8qjFFvYheyqTATX'
