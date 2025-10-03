@@ -121,12 +121,4 @@ bearer_token=********
 8. Head over [here](https://github.com/SSRTDevs/Twitterify/blob/models/README.md) to know about model setup
 9. To run the flask server, run ```flask --app server run``` subsequently on the terminal opened for the flask server. This would start the flask server on port 5000 on the localhost.
 
-### Project Contributors
-[Abhishek Sharma](https://github.com/Abhi-tech-09)
-
-[Saket Thota](https://github.com/SaketThota)
-
-[Shashwat Satao](https://github.com/kafka-654)
-
-[Prithvi Rohira](https://github.com/prithvirohira8)
 
