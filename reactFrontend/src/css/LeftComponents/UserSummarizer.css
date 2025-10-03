@@ -1,0 +1,25 @@
+.card {
+    margin: 1rem auto;
+    background-color: #8a819b36
+}
+
+.status {
+    font-weight: bolder;
+}
+
+.tweet-card {
+    margin: auto;
+    border-bottom: 0.5px solid #ffffff69 !important;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+  }
+  
+  .grid-item {
+    padding: 10px;
+    text-align: center;
+  }
+  
